@@ -5,6 +5,7 @@ Jira Bulk Unwatch is intended to be used to unwatch a list of issues in Jira 5. 
 
 It works in a very simple way, especially if you have both Confluence and Jira being used:
 1. Create a macro in Confluence from the confluence-macro.txt file. Don't forget to change the text "PUT_HERE_YOUR_JIRA_DNS" to your JIRA DNS or IP. Create it as an "unrendered" Macro.
+<br/>
 2. Create a page and add this macro to it. This macro generated a link in any page you add it to.
 2. Drag the link to your bookmarks tab.
 3. Open Jira and search for the issues you'd like to unwatch.
