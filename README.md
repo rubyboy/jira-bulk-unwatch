@@ -14,6 +14,8 @@ If you don't have Confluence you'd need to modify the method and create the book
 
 The script.js could also be run independently in the browser console. Just paste the code into the console, or tweak it to create a bookmarklet and then follow steps 4-5 above.
 
+The same script can also be used for bulk watching issues. To do that, just change the "DELETE" method in the script to "PUT".
+
 I hope you'd find the scripts useful.
 
 Ruby
