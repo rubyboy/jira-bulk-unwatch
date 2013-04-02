@@ -21,6 +21,6 @@ The script.js could also be run independently in the browser console. Just paste
 
 The same script can also be used for bulk watching issues. To do that, just change the "DELETE" method in the script to "PUT".
 
-I hope you'd find the scripts useful.
+I hope you'd find the scripts useful,
 
 Ruby
